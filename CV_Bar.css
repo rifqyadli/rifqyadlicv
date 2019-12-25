@@ -1,0 +1,42 @@
+#Induk{
+margin-left: 100%;
+
+}
+
+#Tab_Pertama{
+
+    height: 100vh;
+    
+    height: auto;
+    margin: auto;
+    padding-top: 1%;
+    border-radius: 20px;
+
+    /* background-image: url(batik); 
+    background-repeat: no-repeat;
+    background-size: cover;*/
+
+}
+
+
+#Rifqy{
+
+    border-radius: 15px 50px;
+}
+
+.Table:hover{
+    color: crimson;
+    text-decoration: underline;
+
+    
+}
+
+.Tabs{
+
+    margin-bottom: 60px;
+
+}
+
+a:visited{
+    color:crimson;
+}
